@@ -1,7 +1,7 @@
-# MPMB XUA25EU "Eberron Updates"
-This script adds the Artificer & its subclasses from the 2025 *Unearthed Arcana: Arcane Subclasses* article.
+# MPMB XUA25AS "Arcane Subclasses"
+This script adds the subclasses from the 2025 *Unearthed Arcana: Arcane Subclasses* article.
 
-**This script is to be used in conjunction with the 5.24E scripts by ThePokésimmer. It will not work properly without those installed first. You can find those scripts here: https://github.com/thepokesimmer/2024-PHB/tree/main This script supersedes (and is therefore incompatible with) my previous UA Artificer script.**
+**This script is to be used in conjunction with the 5.24E scripts by ThePokésimmer. It will not work properly without those installed first. You can find those scripts here: https://github.com/thepokesimmer/2024-PHB/tree/main**
 
 **Script Credit Note:**
 This file has been compiled by MasterJedi2014, though the bones of the script are based on the code from MPMB and those who have contributed to the sheet's existing material in the "all_WotC_pub+UA" script. I am also using code within the script written by the users Shroo, ThePokésimmer, & TrackAtNite. The only things in this script that I can currently take credit for are:
