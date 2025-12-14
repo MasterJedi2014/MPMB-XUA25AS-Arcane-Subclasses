@@ -1327,7 +1327,7 @@ legacySubClassRefactor("wizard", "transmutation", {
 		"I can change either or both benefits when I cast a Transmutation spell using a spell slot.",
 		"I also gain the following options for my Transmuter's Stone:",
 		" \u2022 Mighty Build. The bearer has Adv on Str saves. The bearer also counts as one size larger when determining its carrying capacity.",
-		" \u2022 Tremorsense. The bearer gains Tremorsense with a range of 30 ft."
+		" \u2022 Tremorsense. The bearer gains Tremorsense with a range of 30 ft.",
 		"NOTE: Choosing multiple benefits is done by adding another Transmuter's Stone item to the sheet of the character with the Stone. Additionally, the upgraded stone with additional options is called Potent Transmuter's Stone.",
 	  ]),
     },
