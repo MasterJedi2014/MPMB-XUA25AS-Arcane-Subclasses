@@ -22,6 +22,8 @@ These script will allow users to more easily playtest the revised Arcane Subclas
   - V6 superseded by V9. The Enchantment, Necromancy, & Transmutation Wizard subclasses have been added to the script.
 - **2025-12-06:**
   - Initial upload of script (V6) for the Arcane Updates UA article content. All subclasses that got updates have been updated in this script.
+- **2025-12-13:**
+  - Minor update to V6 Arcane Updates UA script to address error caused by missing comma.
 
 **Known Bugs:**
 - Will alter when one is found.
