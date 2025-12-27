@@ -1,7 +1,7 @@
 # MPMB XUA25AS "Arcane Subclasses" & XUA25AU "Arcane Updates"
 This script adds the subclasses from the 2025 *Unearthed Arcana: Arcane Subclasses* article. It also adds a Magic Item version of the Transmutation Wizard's "Transmuter's Stone" Feature. There is now also a script for the 2025 *Unearthed Arcana: Arcane Updates* article with all of the changes made within. The newer article adds a new variant of the Transmuter's Stone, the Potent Transmuter's Stone.
 
-**Each script is to be used in conjunction with the 5.24E scripts by ThePokésimmer. They will not work properly without those installed first. You can find those scripts here: https://github.com/thepokesimmer/2024-PHB/tree/main. ADDITIONALLY, ONLY INSTALL ONE OF THE SCRIPTS FOUND HERE, NOT BOTH.**
+**Each script is to be used in conjunction with the 5.24E scripts by ThePokésimmer. They will not work properly without those installed first. You can find those scripts here: https://github.com/thepokesimmer/2024-PHB/tree/main. ADDITIONALLY, ONLY INSTALL ONE OF THESE ARCANE SUBCLASSES SCRIPTS, NOT BOTH.**
 
 **Script Credit Notes:**
 This file has been compiled by MasterJedi2014, though the bones of the script are based on the code from MPMB and those who have contributed to the sheet's existing material in the "all_WotC_pub+UA" script. I am also using code within the script written by the users Shroo, ThePokésimmer, & TrackAtNite. The only things in this script that I can currently take credit for are:
@@ -24,9 +24,12 @@ These script will allow users to more easily playtest the revised Arcane Subclas
   - Initial upload of script (V6) for the Arcane Updates UA article content. All subclasses that got updates have been updated in this script.
 - **2025-12-13:**
   - Minor update to V6 Arcane Updates UA script to address error caused by missing comma.
+- **2025-12-27:**
+  - Minor update to V6 Arcane Updates UA script to address error in Hexblade extra spells caused by missing line of code.
 
 **Known Bugs:**
-- Will alter when one is found.
+- ~~XUA25AU V6: Missing comma in Transmutation Wizard is causing errors.~~ Fixed in minor update to XUA25AU V6.
+- ~~XUA25AU V6: Missing line of "spellcastingExtraApplyNonconform: true," for the Hexblade Warlock's extra spells is causing those extra spells to not show up as always prepared.~~ Fixed in minor update to XUA25AU V6.
 
 **XUA25AS Content Source:**
 - https://media.dndbeyond.com/compendium-images/ua/arcane-subclasses/zepvK7DBkeSt6dqv/UA2025-ArcaneSubclasses.pdf
