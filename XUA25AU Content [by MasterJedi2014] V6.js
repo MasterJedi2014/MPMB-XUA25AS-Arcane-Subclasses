@@ -638,6 +638,7 @@ legacySubClassRefactor("warlock", "the hexblade", {
   source: [["XUA25AS", 6]],
   replaces: "the hexblade",
   spellcastingExtra: ["arcane vigor", "hex", "shield", "wrathful smite", "bestow curse", "conjure barrage", "freedom of movement", "staggering strike", "animate objects", "steel wind strike"],
+  spellcastingExtraApplyNonconform: true,
   features: {
     "subclassfeature3": {
       name : "Hexblade's Curse",
